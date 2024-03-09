@@ -2,6 +2,8 @@ class Student {
    int id;
    Student name;
    double fee;
+   uniform;
+   pick up;
    exam fee;
-   books fee;
+   books fee; 
 }
